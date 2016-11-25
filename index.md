@@ -1,8 +1,8 @@
 ---
 
 ---
-* [_DEFAULT]
-* [Bleb - Charlie Curren Jones]
+* (_DEFAULT)
+* [Bleb - Charlie Curren Jones]()
 * [Jeff - Patrick Cauty]
 * [Numpad - James Philips]
 * [Print Screen - Joe Crane]
