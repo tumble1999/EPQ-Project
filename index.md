@@ -1,7 +1,7 @@
 ---
 
 ---
-* [_DEFAULT](DEFAULT)
+* [_DEFAULT](Default)
 * [Bleb - Charlie Curren Jones](Bleb - Charlie Curren Jones)
 * [Jeff - Patrick Cauty](Jeff - Patrick Cauty)
 * [Numpad - James Philips](Numpad - James Philips)
