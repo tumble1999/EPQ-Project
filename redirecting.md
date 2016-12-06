@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Back to Tumble1999
+title: Go Back to Tumble1999
 ---
 <head>
 <link rel="canonical" href="/"/>
@@ -8,7 +8,6 @@ title: Back to Tumble1999
 <meta http-equiv="refresh" content="0;url=/" />
 </head>
 <body>
-    <h1>Redirecting...</h1>
       <a href="/">Click here if you are not redirected.</a>
       <script>location='/'</script>
 </body>
