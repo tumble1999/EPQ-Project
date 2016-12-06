@@ -1,0 +1,17 @@
+---
+layout: page
+title Back to Tumble1999
+---
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="canonical" href="http://downloads.tumblenet.tk"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0;url=http://downloads.tumblenet.tk" />
+</head>
+<body>
+    <h1>Redirecting...</h1>
+      <a href="http://downloads.tumblenet.tk">Click here if you are not redirected.</a>
+      <script>location='http://downloads.tumblenet.tk'</script>
+</body>
+</html>
