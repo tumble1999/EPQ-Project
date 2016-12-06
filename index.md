@@ -8,4 +8,4 @@ layout: page
 {% include controllers.html %}
 
 # Step 3 Tell us your Feedback
-<iframe src="https://docs.google.com/a/thestudio-liverpool.net/forms/d/e/1FAIpQLSc_h2xPr0K7zRg0dZhzqz-kW9orACxS18igkXMrIWBb9QT1zw/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/a/thestudio-liverpool.net/forms/d/e/1FAIpQLSc_h2xPr0K7zRg0dZhzqz-kW9orACxS18igkXMrIWBb9QT1zw/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
